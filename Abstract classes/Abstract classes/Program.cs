@@ -16,7 +16,7 @@ namespace Abstract_classes
     abstract class Figure
     {
         //define abstract method Perimeter with no body
-        //abstract int damit man einen rückgabewert hat, mit return klappt der spaß
+        //abstract int damit man einen rückgabewert hat, mit return klappts
         public abstract int Perimeter();
 
     }
@@ -32,7 +32,7 @@ namespace Abstract_classes
         //override Perimeter method for rectangle
         //public override int Perimeter() und dann kannst du alles in Form von Formeln
         //oder deinem gebrauchten Rechenweg reinhauen und mit return eben in der Main
-        //wiederbekommen, nice
+        //wiederbekommen
         public override int Perimeter()
         {
             return 2 * width + 2 * height;
