@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged Arrays", "Method Overloading\Jagged Arrays.csproj", "{0E192915-43BF-42DF-85EF-E20474155DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E192915-43BF-42DF-85EF-E20474155DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E192915-43BF-42DF-85EF-E20474155DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E192915-43BF-42DF-85EF-E20474155DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E192915-43BF-42DF-85EF-E20474155DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A2942DA-41FC-4574-9EBC-A790253A61E1}
+	EndGlobalSection
+EndGlobal
