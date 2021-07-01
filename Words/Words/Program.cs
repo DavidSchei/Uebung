@@ -53,28 +53,7 @@ namespace Words
                 }
             }
 
-            // WHILE ODER FOR SCHLEIFE FUNKTIONIEREN BEI DIESER METHODE NICHT BESONDERS GUT
-            // DAS HIERUNTER IST BS
-         /*  while(count<10)
-            {
-                if (words[count].Contains(letter))
-                {
-                    Console.WriteLine(words[count]);
-                    count++;
-                }
-                count++;
-                
-            }
-            while (count<10)
-            {
-                 if (count == 0)
-                {
-                    Console.WriteLine("No match");
-                    break;
-                }
-                
-            }
-       */
+            
         }
     }
 }
