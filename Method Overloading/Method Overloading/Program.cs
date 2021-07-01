@@ -20,7 +20,7 @@ namespace Jagged_Arrays
                 //day 3 - 4 participants
                 new string[] { "Hieremias Zavia", "Ziya Ollie", "Christoffel Casper", "Kristian Dana", }
 
-            };
+            }
             //your code goes here
             //wegen array im array kannst du das so aufrufen
             //daywinner-1 weil bei arrays die indexer ab 0 beginnen, also 1 zahl abziehen
@@ -32,6 +32,7 @@ namespace Jagged_Arrays
     }
     
 }
+
 
     
 
